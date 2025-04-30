@@ -106,6 +106,7 @@ document.addEventListener('DOMContentLoaded', function () {
             menuMobile.style.display = "none";
             menuMobileCatalog.style.display = "none";
             detailsMobile.style.display = "none";
+
         }
     });
 
