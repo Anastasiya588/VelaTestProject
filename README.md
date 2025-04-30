@@ -1,11 +1,12 @@
 📌 Название проекта VelaTestProjectAnastasiyaNikolaychik
 
 🚀 Как запустить
-*клонируйте репозиторий
+
+*клонируйте репозиторий  https://github.com/Anastasiya588/VelaTestProject
 
 🛠️ Технологии
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
 
 📂 Структура проекта
